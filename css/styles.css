@@ -1,0 +1,69 @@
+#header {
+    width: 620px;
+    height: 20px;
+    padding: 10px;
+    text-align: left;
+    background: #f8f1f1;
+    color: black;
+    font-size: 12px;
+    font-family: "Lucida Console", Courier, monospace;
+    margin: auto;
+    border-style: ridge;
+
+}
+#outer {
+    width: 620px;
+    height: 400px;
+    padding: 10px;
+    font-size: 12px;
+    font-family: "Lucida Console", Courier, monospace;
+    background-color: white;
+    margin: auto;
+    border-style: ridge;
+}
+
+#eventTitle{
+    width: 80%;
+    height: 20px;
+}
+
+#eventDates{
+    width: 80%;
+    height: 20px;
+}
+
+#postingDates{
+    width: 80%;
+    height: 20px;
+}
+
+.input{
+    width: 50%;
+    height: 18px;
+    position: relative;
+}
+
+#submit{
+    height: 25px;
+    background-color: #f8f1f1;
+    text-align: center;
+    width: 120px; 
+    border: 1px solid gray;
+    margin: 8px; 
+    padding: 6px;
+}
+
+#reset{
+    height: 25px;
+    background-color: #f8f1f1;
+    text-align: center;
+    width: 120px; 
+    border: 1px solid gray;
+    margin: 8px; 
+    padding: 6px;
+}
+
+#container{
+    text-align: center;
+}
+

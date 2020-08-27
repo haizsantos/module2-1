@@ -22,6 +22,9 @@
     border-style: ridge;
 }
 
+#cbox{
+    padding-left: 20px;
+}
 #eventTitle{
     width: 80%;
     height: 20px;
